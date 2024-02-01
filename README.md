@@ -3,7 +3,7 @@
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 This code sample is used to create the Base64HmacSha1 encoding of the notification and client secret to verify the notification
-is correcting coming from Fitbit's webhook service.
+is correctly coming from Fitbit's webhook service.
 
 ## Folder Structure
 
