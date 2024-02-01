@@ -1,0 +1,9 @@
+[
+  {
+    "collectionType": "foods",
+    "date": "2020-06-01",
+    "ownerId": "228S74",
+    "ownerType": "user",
+    "subscriptionId": "1234"
+  }
+]
