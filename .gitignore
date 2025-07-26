@@ -1,0 +1,7 @@
+# Files to ignore
+#########################
+.vscode
+
+# Directories to ignore
+#########################
+bin/
